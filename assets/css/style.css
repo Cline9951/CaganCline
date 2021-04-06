@@ -3,9 +3,9 @@
     padding: 2em;
 }
 
-.badge {
+/*.badge {
     background-color: #70c1b3;
-}
+}*/
 
 #skills {
     background-color: #f3ffbd;
@@ -17,8 +17,8 @@
 }
 
 #training {
-    /* background-color: #247ba0;*/
-    margin-bottom: -1em;
+    background-color: #247ba0;
+    /*margin-bottom: -1em;*/
     font-family: 'Didact Gothic', sans-serif;
 }
 
