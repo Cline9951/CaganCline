@@ -1,6 +1,7 @@
 body {
     max-width: auto;
     max-height: auto;
+    font-family: 'Didact Gothic', sans-serif;
 }
 
 #header {
@@ -19,8 +20,6 @@ body {
 
 #training {
     background-color: #247ba0;
-    /*margin-bottom: -1em;*/
-    font-family: 'Didact Gothic', sans-serif;
 }
 
 #links {
@@ -28,19 +27,12 @@ body {
     padding: 2em;
 }
 
-h1, h2, h3 {
-    font-family: 'Parisienne', cursive;
-}
-p {
-    font-family: 'Didact Gothic', sans-serif;
+.badgeLinks {
+    background-color:  #ff1654;
 }
 
 #icons {
     display: flex;
-}
-
-#titleSkills {
-    padding-top: 2em;
 }
 
 .trainee {
