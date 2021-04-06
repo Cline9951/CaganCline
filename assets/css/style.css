@@ -1,11 +1,12 @@
+body {
+    max-width: auto;
+    max-height: auto;
+}
+
 #header {
     background-color: #ff1654;
     padding: 2em;
 }
-
-/*.badge {
-    background-color: #70c1b3;
-}*/
 
 #skills {
     background-color: #f3ffbd;
@@ -44,20 +45,4 @@ p {
 
 .trainee {
     word-break: break-all;
-}
-
-#dropdownMenuButton {
-    max-height: 3em;
-    text-align: start;
-}
-
-.dropdown-menu {
-    word-wrap:break-word;
-}
-
-#background-img {
-    background-image: url("../img/back-end-script-programming-interface-512.png");
-    background-repeat: no-repeat;
-    height: 504px;
-    
 }
